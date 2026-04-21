@@ -1,17 +1,16 @@
- # BIKE SHARING DATA
+ # Bike Sharing Data Analysis using Power BI
  ## Project overview:
  
 - This project focuses on analyzing a Bike Sharing System to evaluate city-wise performance, operational efficiency, and revenue trends using Power BI
 ## Objective:
 
-- The objective is to understand bike utilization patterns, operational efficiency, growth trends, and to provide data-driven recommendations for improving system performance across cities.
+- Analyze ride patterns
+- Identify peak usage times
+- Study station demand
+- Understand user behavior
 
 ## Problem Statement:
-- Evaluate city-wise performance and revenue efficiency
-- Identify top-performing and underperforming cities
-- Analyze usage trends and seasonal patterns
-- Detect cost inefficiencies and capacity mismatches
-- Support data-driven decisions for infrastructure optimization and expansion
+- Analyze bike usage patterns to understand demand, peak hours, and user behavior for improving urban mobility planning.
 
 
 ## Tools & Technologies:
@@ -21,5 +20,18 @@ Tasks Performed:
 - Data Cleaning & Transformation: Removed duplicates, handled missing values, standardized formats, and created calculated fields.
 Filtering & Sorting: Organized data to focus on relevant records.
 - Convert the data into Fact and Dimension Table
+## Key Insights
+Peak usage occurs during morning and evening hours
+Weekdays show commuter-driven usage
+Certain stations have consistently high demand
+Weekend usage patterns differ from weekdays
+## Business Impact
+- Helps optimize bike distribution
+- Improves station planning
+- Reduces bike shortages
+- Supports smart city planning
+## Dashboard Preview
+
+(Add screenshot)
 ## Conclusion
 The bike-sharing system is financially efficient and growing, but utilization varies significantly by city. Strategic expansion in high-performing regions, operational improvements in average performers, and demand stimulation in underutilized areas will maximize return on investment and ensure sustainable growth.
